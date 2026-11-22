@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "AUTO QA TD17366 Bundle",
+        "ar": "\u0627\u062e\u062a\u0628\u0627\u0631 \u0631\u0628\u0637 \u062d\u0632\u0645\u0629"
+    },
+    "description": {
+        "en": "",
+        "ar": ""
+    },
+    "author_email": "m.hamza@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/QA-MHA-Salla/tw-auto-qa-td17366-bundle",
+    "components": []
+}
